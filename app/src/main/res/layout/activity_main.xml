@@ -24,4 +24,12 @@
         android:text="@string/texto_boton_click"
         android:theme="@style/MiBotonRaised"
         />
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/star"
+        android:layout_below="@+id/btnMiBoton"
+        android:id="@+id/fabMiFAB"
+
+        />
 </RelativeLayout>
