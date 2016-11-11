@@ -2,4 +2,5 @@
     <string name="app_name">Petagram</string>
     <string name="texto_boton_click">Click</string>
     <string name="texto_titulo">Hello World!!</string>
+    <string name="mensaje">Favorito :3 </string>
 </resources>
